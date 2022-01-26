@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @yassinecode
-- 👀 I’m interested in learn to code
+- 👀 I’m Self Taught Front-End Developer
 - 🌱 I’m currently learning React.js/Node.js
-- 📫 How to reach me
+- 📫 How to reach me:
 - Instagram: @yassinecode
-- Youtube: https://bit.ly/32Gf6Fi
+- LinkedIn: https://www.linkedin.com/in/yassine-nejmi/
 
 <!---
 LetsCode20/LetsCode20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
